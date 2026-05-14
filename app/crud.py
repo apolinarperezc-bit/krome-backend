@@ -1,7 +1,7 @@
 from sqlalchemy.orm import Session
 from sqlalchemy import or_
 from typing import Optional
-import models, schemas
+from app import models, schemas
 
 
 # ── FOLIOS ───────────────────────────────────────────────────────────────────
